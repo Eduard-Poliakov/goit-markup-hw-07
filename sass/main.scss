@@ -1,4 +1,5 @@
 @import './utils/variables';
+@import './utils/mixins';
 @import './utils/visually-hidden';
 
 @import './base/common';
@@ -6,9 +7,14 @@
 @import './base/container';
 
 @import './components/logo';
+@import './components/navigation';
+@import './components/header-contacts';
 @import './components/active-page';
 @import './components/button';
 @import './components/social-list';
+@import './components/footer-contacts';
+@import './components/footer-social-list';
+@import './components/footer-form';
 @import './components/backdrop';
 @import './components/modal-window';
 @import './components/modal-form';

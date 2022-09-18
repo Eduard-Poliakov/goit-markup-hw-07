@@ -1,7 +1,7 @@
 .logo {
   @include font(700, 26px, 31px);
   color: var(--accent-color);
-  font-family: 'Raleway', 'sans-seri';
+  font-family: $fontLogo;
 
   display: inline-block;
 }

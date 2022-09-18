@@ -112,7 +112,7 @@
   }
 }
 
-.modal-form__custom-checkbox_on {
+.modal-form__custom-checkbox--on {
   display: none;
 
   .modal-form__base-checkbox:checked + .modal-form__custom-checkbox > & {
@@ -128,7 +128,7 @@
   }
 }
 
-.button_form {
+.button--form {
   width: 200px;
   margin-right: auto;
   margin-left: auto;
